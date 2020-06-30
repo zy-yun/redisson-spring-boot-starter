@@ -1,0 +1,4 @@
+org\example\redisson\RedissonConfiguration.class
+org\example\redisson\RedissonProperties.class
+META-INF\spring-configuration-metadata.json
+org\example\redisson\App.class

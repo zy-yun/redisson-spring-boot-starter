@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "zy.redisson",
+      "type": "org.example.redisson.RedissonProperties",
+      "sourceType": "org.example.redisson.RedissonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "zy.redisson.host",
+      "type": "java.lang.String",
+      "sourceType": "org.example.redisson.RedissonProperties",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "zy.redisson.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.example.redisson.RedissonProperties",
+      "defaultValue": 6379
+    },
+    {
+      "name": "zy.redisson.ssl",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.example.redisson.RedissonProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "zy.redisson.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "org.example.redisson.RedissonProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
