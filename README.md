@@ -3,4 +3,6 @@
 
 命名规范：组件名字-spring-boot-starter
 
+原生组件命名规范：spring-boot-starter-组件名字
+
 然后自己新建一个springboot的应用，引用此redis starter组件
